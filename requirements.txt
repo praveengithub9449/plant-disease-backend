@@ -1,0 +1,8 @@
+flask
+torch
+torchvision
+Pillow
+numpy
+joblib
+wikipedia
+requests
